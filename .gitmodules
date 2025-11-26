@@ -1,0 +1,3 @@
+[submodule "hexlet-jest"]
+	path = hexlet-jest
+	url = https://github.com/Alexandr-Ananev/hexlet-jest
