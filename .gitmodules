@@ -1,3 +1,6 @@
 [submodule "hexlet-jest"]
 	path = hexlet-jest
 	url = https://github.com/Alexandr-Ananev/hexlet-jest
+[submodule "hexlet-my-first-workflow"]
+	path = hexlet-my-first-workflow
+	url = https://github.com/Alexandr-Ananev/hexlet-my-first-workflow
